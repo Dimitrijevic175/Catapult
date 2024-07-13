@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312968190890",
+    "project_id": "catapult-ea1c3",
+    "storage_bucket": "catapult-ea1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312968190890:android:85826dfaaefa1446f0a9d3",
+        "android_client_info": {
+          "package_name": "com.example.catlistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07JAR2wZj7TjDm3_HNzfCtqaaqeLZliE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
